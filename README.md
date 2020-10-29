@@ -1,8 +1,6 @@
-Hi, I'm flipcoder!  I'm a coder and music guy who sometimes blends these hobbies.
+Hi, I'm flipcoder!  I'm a coder and musician guy who sometimes blends these hobbies.
 
-Gamedev is a primary interest of mine, specifically custom game engines and speedcoding.
+I write small gamedev projects, sometimes competitively, and write music/synthesizer software.
 
-I'm also highly interested in creation of music/synthesizer software.
-
-While you're at it, check out my mathrock band: [Thujas](https://thujas.net)
+While you're at it, check out my mathrock band: [thujas](https://thujas.net)
 

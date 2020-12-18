@@ -4,3 +4,4 @@ I write small gamedev projects, sometimes competitively, and write music/synthes
 
 While you're at it, check out my mathrock band: [thujas](https://thujas.net)
 
+**Email:** flipcoder@gmail.com

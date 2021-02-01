@@ -17,3 +17,5 @@ If you like music, check out my mathrock band: [thujas](https://thujas.net)
 **Email:** flipcoder@gmail.com
 
 **Discord:** flipcoder#8604
+
+**Element:** @flipcoder:matrix.org

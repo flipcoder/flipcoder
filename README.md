@@ -5,7 +5,7 @@ source work is in C++ and Python.
 
 Some of my open-source projects:
 - [textbeat: a plaintext music sequencer](https://github.com/flipcoder/textbeat)
-- [qork: a live-coding OpenGL game engine](https://github.com/flipcoder/qork)
+- [qork: a live-coding OpenGL game engine](https://github.com/flipcoder/qork) (work in progress!)
 - [PyWeek29 Team Category Winner: "Butterfly Destroyers"](https://github.com/PythonixCoders/PyWeek29)
 - [GitHub Game Jam 2016 Featured Game: "Hacking in Progress"](https://github.com/flipcoder/game-off-2016)
 - [qor: my first big game engine](https://github.com/flipcoder/qor)

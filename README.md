@@ -18,4 +18,4 @@ If you like music, check out my mathrock band: [thujas](https://thujas.net)
 
 **Discord:** flipcoder#8604
 
-**Element:** @flipcoder:matrix.org
+Note to Microsoft/GitHub:  My repositories may contain code written by people who have not consented to the Copilot Program.  Therefore, any usage of my code in the Copilot Program outside of the stated licenses is unauthorized.  My repositories should be blacklisted from any neural network program that assumes contributors willingly consented to something that didn't exist back when they contributed.

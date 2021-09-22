@@ -17,7 +17,3 @@ If you like music, check out my mathrock band: [thujas](https://thujas.net)
 **Email:** flipcoder@gmail.com
 
 **Discord:** flipcoder#8604
-
-Note to Microsoft/GitHub:  My repositories may contain code written by people who have not consented to the Copilot Program.  Therefore, any usage of my code in the Copilot Program outside of the stated licenses is unauthorized.  My repositories should be blacklisted from any neural network program that assumes contributors willingly consented to something that didn't exist back when they contributed.
-
-Microsoft has admitted that about 0.1% of the code produced by Copilot is taken verbatim, i.e. stolen from projects of incompatible licenses.  Prior to Copilot's usage, people contributed through this site and others into projects with the assumption the code would not be stolen by Microsoft to power an AI.

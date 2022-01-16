@@ -1,4 +1,4 @@
-Hi, I'm Grady, known as flipcoder online.
+Hi, I'm Grady O'Connell, known as flipcoder online.
 
 I write game engines, music/synthesizer software, and various code libraries and utilities.  Most of my open
 source work is in C++ and Python.

@@ -12,8 +12,6 @@ Some of my open-source projects:
 - [kit: C++ utility library used in Qor](https://github.com/flipcoder/kit)
 - [fig: create GUI configuration dialogs using simple json](https://github.com/flipcoder/fig)
 
-If you like music, check out my mathrock band: [thujas](https://thujas.net)
-
 **Email:** flipcoder@gmail.com
 
 **Discord:** flipcoder#8604

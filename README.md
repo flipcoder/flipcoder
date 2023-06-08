@@ -14,6 +14,6 @@ Some of my open-source projects:
 
 **Email:** flipcoder@gmail.com
 
-**Discord:** flipcoder#8604
+**Discord:** flipcoder
 
 **Music:** [soundcloud.com/flipcoder](https://soundcloud.com/flipcoder)

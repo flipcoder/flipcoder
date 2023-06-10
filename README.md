@@ -1,9 +1,10 @@
-Hi, I'm Grady O'Connell, known as flipcoder online.  I'm a programmer and musician.
 
-I write game engines, music/synthesizer software, and various code libraries and utilities.  Most of my open
-source work is in C++ and Python.
+<a href="https://www.buymeacoffee.com/flipcoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Some of my open-source projects:
+Hi, I'm Grady O'Connell, known as flipcoder.  I'm a programmer and musician focusing on music technology and game development.  I'm currently building [midimech](https://github.com/flipcoder/midimech), a new musical layout system created for next-gen instruments like the LinnStrument and grid controllers.
+
+Here are some of my open-source projects:
+- [midimech: a new musical layout system for next-gen instruments](https://github.com/flipcoder/midimech)
 - [textbeat: a plaintext music sequencer](https://github.com/flipcoder/textbeat)
 - [qork: a live-coding OpenGL game engine](https://github.com/flipcoder/qork) (work in progress!)
 - [PyWeek29 Team Category Winner: "Butterfly Destroyers"](https://github.com/PythonixCoders/PyWeek29)

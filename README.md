@@ -9,7 +9,7 @@
 Here are some of my open-source projects:
 - [midimech: a new musical layout system for next-gen instruments](https://github.com/flipcoder/midimech)
 - [textbeat: a plaintext music sequencer](https://github.com/flipcoder/textbeat)
-- [qork: a live-coding OpenGL game engine](https://github.com/flipcoder/qork) (work in progress!)
+- [qork: a live-coding OpenGL game engine](https://github.com/flipcoder/qork) (incomplete)
 - [PyWeek29 Team Category Winner: "Butterfly Destroyers"](https://github.com/PythonixCoders/PyWeek29)
 - [GitHub Game Jam 2016 Featured Game: "Hacking in Progress"](https://github.com/flipcoder/game-off-2016)
 - [qor: my first OpenGL game engine](https://github.com/flipcoder/qor)

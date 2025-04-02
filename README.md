@@ -1,7 +1,7 @@
 
 <a href="https://www.buymeacoffee.com/flipcoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-👋 Hi, I'm Grady O'Connell, otherwise known as flipcoder.  I'm a programmer and music guy focusing on music technology and game development.  I'm currently building [midimech](https://github.com/flipcoder/midimech), a new musical layout system created for next-gen instruments like the LinnStrument and grid controllers.
+👋 Hi, I'm Grady O'Connell, otherwise known as flipcoder.  I'm a developer, designer, and musician.  I'm currently building [midimech](https://github.com/flipcoder/midimech), a new musical layout system created for next-gen instruments like the LinnStrument and grid controllers.
 
 Here are some of my open-source projects:
 - [midimech: a new musical layout system for next-gen instruments](https://github.com/flipcoder/midimech)

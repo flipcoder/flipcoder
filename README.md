@@ -4,7 +4,7 @@
 
 ---
 
-👋 Hi, I'm Grady.  I'm a developer, designer, and musician.  I'm currently building [midimech](https://github.com/flipcoder/midimech), a new musical layout system created for next-gen instruments like the LinnStrument and grid controllers.
+👋 Hi, I'm Grady.  I'm a developer and musician.  I'm currently building [midimech](https://github.com/flipcoder/midimech), a musical layout system created for next-gen instruments like the LinnStrument and grid controllers.
 
 Here are some of my open-source projects:
 - [midimech: a new musical layout system for next-gen instruments](https://github.com/flipcoder/midimech)
